@@ -1,38 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\",
+  "WorkspaceRootPath": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutomisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutomisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutomisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutomisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutovetorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutovetorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutovetorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutovetorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutoescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutoescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|c:\\users\\aluno\\documents\\higor palmeira\\calculadoravetorial\\frmprodutoescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB227D8-5C6B-4706-8506-09997F978B78}|CalculadoraVetorial.csproj|solutionrelative:frmprodutoescalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmProdutoMisto.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoMisto.cs",
-              "RelativeDocumentMoniker": "frmProdutoMisto.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoMisto.cs",
-              "RelativeToolTip": "frmProdutoMisto.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAADwvyMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:31:45.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmProdutoMisto.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoMisto.cs",
-              "RelativeDocumentMoniker": "frmProdutoMisto.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoMisto.cs [Projeto]",
-              "RelativeToolTip": "frmProdutoMisto.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:18:56.793Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmProdutoVetorial.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoVetorial.cs",
-              "RelativeDocumentMoniker": "frmProdutoVetorial.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoVetorial.cs",
-              "RelativeToolTip": "frmProdutoVetorial.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:05:29.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmProdutoVetorial.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoVetorial.cs",
-              "RelativeDocumentMoniker": "frmProdutoVetorial.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoVetorial.cs [Projeto]",
-              "RelativeToolTip": "frmProdutoVetorial.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:03:12.449Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmProdutoEscalar.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoEscalar.cs",
-              "RelativeDocumentMoniker": "frmProdutoEscalar.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoEscalar.cs [Projeto]",
-              "RelativeToolTip": "frmProdutoEscalar.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:43:46.704Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmProdutoEscalar.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoEscalar.cs",
-              "RelativeDocumentMoniker": "frmProdutoEscalar.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmProdutoEscalar.cs",
-              "RelativeToolTip": "frmProdutoEscalar.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAswBUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:40:13.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmPrincipal.cs",
-              "RelativeToolTip": "frmPrincipal.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswBgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:59:30.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "frmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\frmPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\frmPrincipal.cs [Projeto]",
               "RelativeToolTip": "frmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T17:18:42.627Z",

@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\higor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\CalculadoraVetorial.csproj",
+      "projectUniqueName": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\CalculadoraVetorial.csproj",
       "projectName": "CalculadoraVetorial",
-      "projectPath": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\CalculadoraVetorial.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\Higor Palmeira\\CalculadoraVetorial\\obj\\",
+      "projectPath": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\CalculadoraVetorial.csproj",
+      "packagesPath": "C:\\Users\\higor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\higor\\Documents\\MeuPC\\CalculadoraVetorial\\Programa\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\higor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

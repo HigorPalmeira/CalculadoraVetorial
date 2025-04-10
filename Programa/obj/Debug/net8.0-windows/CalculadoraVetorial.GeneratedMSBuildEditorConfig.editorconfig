@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalculadoraVetorial
-build_property.ProjectDir = C:\Users\aluno\Documents\Higor Palmeira\CalculadoraVetorial\
+build_property.ProjectDir = C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

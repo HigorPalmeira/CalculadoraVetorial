@@ -17,3 +17,24 @@ C:\Users\aluno\Documents\Higor Palmeira\CalculadoraVetorial\obj\Debug\net8.0-win
 C:\Users\aluno\Documents\Higor Palmeira\CalculadoraVetorial\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoVetorial.resources
 C:\Users\aluno\Documents\Higor Palmeira\CalculadoraVetorial\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoEscalar.resources
 C:\Users\aluno\Documents\Higor Palmeira\CalculadoraVetorial\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoMisto.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\bin\Debug\net8.0-windows\CalculadoraVetorial.exe
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\bin\Debug\net8.0-windows\CalculadoraVetorial.deps.json
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\bin\Debug\net8.0-windows\CalculadoraVetorial.runtimeconfig.json
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\bin\Debug\net8.0-windows\CalculadoraVetorial.dll
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\bin\Debug\net8.0-windows\CalculadoraVetorial.pdb
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.frmPrincipal.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoEscalar.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoMisto.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProdutoVetorial.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.frmProjecao.resources
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.csproj.GenerateResource.cache
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.AssemblyInfoInputs.cache
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.AssemblyInfo.cs
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.csproj.CoreCompileInputs.cache
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.sourcelink.json
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.dll
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\refint\CalculadoraVetorial.dll
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.pdb
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\CalculadoraVetorial.genruntimeconfig.cache
+C:\Users\higor\Documents\MeuPC\CalculadoraVetorial\Programa\obj\Debug\net8.0-windows\ref\CalculadoraVetorial.dll

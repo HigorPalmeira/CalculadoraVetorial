@@ -24,5 +24,11 @@ namespace CalculadoraVetorial
             frmProdutoMisto frmProdutoMisto = new frmProdutoMisto();
             frmProdutoMisto.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmProjecao frmProjecao = new frmProjecao();
+            frmProjecao.ShowDialog();
+        }
     }
 }
