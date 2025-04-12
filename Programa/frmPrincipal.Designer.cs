@@ -32,8 +32,19 @@
             btnProdutoVetorial = new Button();
             btnProdutoMisto = new Button();
             label1 = new Label();
+            label2 = new Label();
             button1 = new Button();
             SuspendLayout();
+            //
+            // label2
+            //
+            label2.AutoSize = true;
+            label2.Font = new Font("Trebuchet MS", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.Location = new Point(206, 406); // fica bem no cantinho direito
+            label2.Name = "label2";
+            label2.Size = new Size(157, 22);
+            label2.TabIndex = 0;
+            label2.Text = "Por Higor Palmeira";
             // 
             // btnProdutoEscalar
             // 
@@ -91,6 +102,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(360, 450);
             Controls.Add(label1);
+            Controls.Add(label2);
             Controls.Add(button1);
             Controls.Add(btnProdutoMisto);
             Controls.Add(btnProdutoVetorial);
@@ -108,6 +120,7 @@
         private Button btnProdutoVetorial;
         private Button btnProdutoMisto;
         private Label label1;
+        private Label label2;
         private Button button1;
     }
 }

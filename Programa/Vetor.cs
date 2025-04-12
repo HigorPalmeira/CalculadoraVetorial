@@ -8,11 +8,11 @@ namespace CalculadoraVetorial
 {
     internal class Vetor
     {
-        public int x;
-        public int y;
-        public int z;
+        public double x;
+        public double y;
+        public double z;
 
-        public Vetor(int x, int y, int z)
+        public Vetor(double x, double y, double z)
         {
             this.x = x;
             this.y = y;
@@ -22,6 +22,12 @@ namespace CalculadoraVetorial
         public double Modulo()
         {
             return Math.Sqrt(Math.Pow(this.x, 2) + Math.Pow(this.y, 2) + Math.Pow(this.z, 2));
+        }
+
+        public Vetor Versor()
+        {
+            double modulo = this.Modulo();
+            return new((this.x / modulo), (this.y / modulo), (this.z / modulo));
         }
     }
 }

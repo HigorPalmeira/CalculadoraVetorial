@@ -1,5 +1,5 @@
 ﻿namespace CalculadoraVetorial
-{
+{ // com algumas modificações externas do model
     partial class frmProjecao
     {
         /// <summary>
@@ -237,6 +237,7 @@
             btnRetorno.TabIndex = 23;
             btnRetorno.Text = "<";
             btnRetorno.UseVisualStyleBackColor = true;
+            btnRetorno.Click += btnRetorno_Click;
             // 
             // frmProjecao
             // 
@@ -262,6 +263,7 @@
             Controls.Add(label1);
             Controls.Add(btnRetorno);
             Name = "frmProjecao";
+            StartPosition = FormStartPosition.CenterScreen; // alterado por meio de código escrito
             Text = "Calculadora Vetorial";
             pnlResultado.ResumeLayout(false);
             pnlResultado.PerformLayout();

@@ -29,14 +29,22 @@ namespace CalculadoraVetorial
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            Vetor u = new(Convert.ToInt32(txtUx.Text), Convert.ToInt32(txtUy.Text), Convert.ToInt32(txtUz.Text));
-            Vetor v = new(Convert.ToInt32(txtVx.Text), Convert.ToInt32(txtVy.Text), Convert.ToInt32(txtVz.Text));
+            try
+            {
+                Vetor u = new(Convert.ToDouble(txtUx.Text), Convert.ToDouble(txtUy.Text), Convert.ToDouble(txtUz.Text));
+                Vetor v = new(Convert.ToDouble(txtVx.Text), Convert.ToDouble(txtVy.Text), Convert.ToDouble(txtVz.Text));
 
-            int wX = u.y * v.z - u.z * v.y;
-            int wY = u.z * v.x - u.x * v.z;
-            int wZ = u.x * v.y - u.y * v.x;
+                double wX = u.y * v.z - u.z * v.y;
+                double wY = u.z * v.x - u.x * v.z;
+                double wZ = u.x * v.y - u.y * v.x;
 
-            txtResultado.Text = wX.ToString() +", " + wY.ToString() +", " + wZ.ToString();
+                txtResultado.Text = wX.ToString("F2") + ", " + wY.ToString("F2") + ", " + wZ.ToString("F2");
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

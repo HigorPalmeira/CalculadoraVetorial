@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraVetorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2126c443b130093464613331f00c25124a4c65af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce9bb50bd05e03c40c26ba21cc677fda8b58f0a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraVetorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraVetorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
