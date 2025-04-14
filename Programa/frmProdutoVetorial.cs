@@ -38,7 +38,7 @@ namespace CalculadoraVetorial
                 double wY = u.z * v.x - u.x * v.z;
                 double wZ = u.x * v.y - u.y * v.x;
 
-                txtResultado.Text = wX.ToString("F2") + ", " + wY.ToString("F2") + ", " + wZ.ToString("F2");
+                txtResultado.Text = wX.ToString("F2").Replace(",", ".") + ", " + wY.ToString("F2").Replace(",", ".") + ", " + wZ.ToString("F2").Replace(",", ".");
             }
             catch (Exception ex)
             {
