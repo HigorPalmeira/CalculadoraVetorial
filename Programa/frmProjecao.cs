@@ -32,7 +32,7 @@ namespace CalculadoraVetorial
                 double wY = produtoEscalar * versorV.y;
                 double wZ = produtoEscalar * versorV.z;
 
-                txtResultado.Text = wX.ToString("F2") + ", " + wY.ToString("F2") + ", " + wZ.ToString("F2");
+                txtResultado.Text = wX.ToString("F2").Replace(",", ".") + ", " + wY.ToString("F2").Replace(",", ".") + ", " + wZ.ToString("F2").Replace(",", ".");
             }
             catch (Exception ex)
             {
