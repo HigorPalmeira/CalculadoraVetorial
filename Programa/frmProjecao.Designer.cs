@@ -66,7 +66,7 @@
             txtResultado.Font = new Font("Trebuchet MS", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             txtResultado.Location = new Point(7, 42);
             txtResultado.Name = "txtResultado";
-            txtResultado.Size = new Size(100, 26);
+            txtResultado.Size = new Size(150, 26);
             txtResultado.TabIndex = 1;
             // 
             // label10
